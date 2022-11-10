@@ -10,11 +10,15 @@ COMM - pre-commite pipeline вручную :)
 
 __Как__
 
+В терминале (хоть в IDE, хоть так):
 
+    curl -O https://github.com/tumbator/bash_scrpts/blob/master/start.sh
+    
+    bash ./start.sh
 
-bash ./start.sh
+Перед коммитом:
 
-bash ./comm.sh
+    bash ./comm.sh
 
 
 __Зачем__
