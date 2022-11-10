@@ -12,7 +12,7 @@ __Как__
 
 В терминале (хоть в IDE, хоть так):
 
-    curl -O https://raw.githubusercontent.com/tumbator/bash_scrpts/784eb2ef192c6fd20af0e216a547944f5d3ba9f5/start.sh; bash ./start.sh
+    curl -O https://raw.githubusercontent.com/tumbator/bash_scrpts/master/start.sh; bash ./start.sh
 
 Перед коммитом:
 
