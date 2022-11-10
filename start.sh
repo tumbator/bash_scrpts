@@ -7,6 +7,7 @@ curl -O https://raw.githubusercontent.com/tumbator/bash_scrpts/master/requiremen
 curl -O https://raw.githubusercontent.com/tumbator/bash_scrpts/master/.gitignore
 curl -O https://raw.githubusercontent.com/tumbator/bash_scrpts/master/.flake8
 curl -O https://raw.githubusercontent.com/tumbator/bash_scrpts/master/mypy.ini
+curl -O https://raw.githubusercontent.com/tumbator/bash_scrpts/master/pytest.ini
 curl -O https://raw.githubusercontent.com/tumbator/bash_scrpts/master/comm.sh
 
 python -m pip install --upgrade pip
