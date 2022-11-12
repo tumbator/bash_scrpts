@@ -11,7 +11,7 @@ curl -O https://raw.githubusercontent.com/tumbator/bash_scrpts/master/pytest.ini
 curl -O https://raw.githubusercontent.com/tumbator/bash_scrpts/master/comm.sh
 curl -O https://raw.githubusercontent.com/tumbator/bash_scrpts/master/pyproject.toml
 
-curl -O README.md https://raw.githubusercontent.com/tumbator/bash_scrpts/master/project.md
+curl -o README.md https://raw.githubusercontent.com/tumbator/bash_scrpts/master/project.md
 
 python -m pip install --upgrade pip
 pip install -r requirements.txt
