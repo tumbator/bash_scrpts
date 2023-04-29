@@ -6,4 +6,3 @@ black .
 flake8 .
 mypy .
 python -m pytest
-
