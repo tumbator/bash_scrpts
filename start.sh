@@ -15,3 +15,4 @@ curl -o README.md https://raw.githubusercontent.com/tumbator/bash_scrpts/master/
 
 python -m pip install --upgrade pip
 pip install -r requirements.txt
+pip freeze > non-prod-requirements.txt
