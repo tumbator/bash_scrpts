@@ -34,3 +34,7 @@ _Переписать кфг зоопарк в pyproject.toml_
 _Переделать на GitHub хуки или pre-commit :)_
 
 _Дорабатывать напильником_
+
+__Добавлено__
+
+Создаются к requirements.txt, non-prod-requirements.txt и prod-requirements.txt
