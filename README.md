@@ -35,6 +35,8 @@ _Переделать на GitHub хуки или pre-commit :)_
 
 _Дорабатывать напильником_
 
+_Invalid config keys detected: 'extend_skip_glob'_
+
 __Добавлено__
 
 Создаются к requirements.txt, non-prod-requirements.txt и prod-requirements.txt
